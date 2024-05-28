@@ -1,4 +1,12 @@
 {
+  "drips": {
+    "ethereum": {
+      "ownedBy": "0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2"
+    }
+  }
+}
+
+{
   ...
   "opRetro": {
     "projectId": "0x70788f753a86a534255b21883d32ac904de7dd9283d897434b409123d4c5b6ec"
