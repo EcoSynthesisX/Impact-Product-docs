@@ -1,10 +1,10 @@
-# Unified Documentation for Impact NFT Initiative - Roadmap and Vision
+# Unified Documentation for Impact Products Initiative - Roadmap and Vision
 
 ## Introduction
-Leveraging blockchain technology, the Impact NFT Initiative is at the forefront of creating meaningful change across environmental and social landscapes. With our first Impact NFT launched, we embark on a journey to develop a comprehensive ecosystem where contributions lead to tangible impacts and recognition.
+Leveraging blockchain technology, the Impact Products Initiative is at the forefront of creating meaningful change across environmental and social landscapes. With our first Impact Products launched, we embark on a journey to develop a comprehensive ecosystem where contributions lead to tangible impacts and recognition.
 
 ## The First Impact NFT: A Milestone
-Our initiative begins with the first Impact NFT, embodying our commitment to bridging blockchain with impactful causes. This NFT, associated with an Impact Value (IV), marks the first step in our mission to make a difference.
+Our initiative begins with the first Impact Product, embodying our commitment to bridging blockchain with impactful causes. This NFT, associated with an Impact Value (IV), marks the first step in our mission to make a difference.
 
 ### Impact Value (IV): Quantifying Change
 The Impact Value system measures the positive change each NFT contributes to, serving as a transparent metric that enhances the value and appeal of participating in our initiative.
