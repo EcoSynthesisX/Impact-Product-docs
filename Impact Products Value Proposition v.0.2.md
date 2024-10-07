@@ -1,4 +1,4 @@
-# Impact NFT Collection: Value Propositions
+# Impact Products Collection: Value Propositions
 
 ## For Activists and Impact Organizations (Environmental and Social)
 - **Direct Support**: Projects receive direct support through NFT sales, each carrying an Impact Value (IV) that quantifies the contribution to both environmental and social causes.
